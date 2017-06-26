@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT8M15.586239S" SolutionTotalViewTime="PT12M33.9941129S" SolutionTotalDebugTime="PT6M43.2375657S">
+  <FileVersion>
+    <Major>1</Major>
+    <Minor>0</Minor>
+  </FileVersion>
+  <SessionTimeList />
+  <LastSessionTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT6M43.2395923S" EditActiveTime="PT3.4523948S">
+      <ModifiedDate>2017-05-24T01:00:17.462026+02:00</ModifiedDate>
+      <ModifiedBy>shaff</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2017-05-24T00:37:21.5593909+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT12M34.0006029S" EditActiveTime="PT8M15.5807475S">
+      <ModifiedDate>2017-05-24T01:04:45.4555749+02:00</ModifiedDate>
+      <ModifiedBy>shaff</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 4\PartyPlanning\PartyPlanning\PartyPlanning.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 4\PartyPlanning\PartyPlanning\PartyPlanning.vcxproj</ProjectName>
+      <CreatedDate>2017-05-24T00:26:32.0628861+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+  </LastSessionTimeList>
+  <TotalTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT6M43.2395923S" EditActiveTime="PT3.4523948S">
+      <ModifiedDate>2017-05-24T01:00:17.462026+02:00</ModifiedDate>
+      <ModifiedBy>shaff</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2017-05-24T00:37:21.5593909+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT12M34.0006029S" EditActiveTime="PT8M15.5807475S">
+      <ModifiedDate>2017-05-24T01:04:45.4555749+02:00</ModifiedDate>
+      <ModifiedBy>shaff</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 4\PartyPlanning\PartyPlanning\PartyPlanning.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 4\PartyPlanning\PartyPlanning\PartyPlanning.vcxproj</ProjectName>
+      <CreatedDate>2017-05-24T00:26:32.0628861+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+  </TotalTimeList>
+  <HistoryTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT6M43.2395923S" EditActiveTime="PT3.4523948S">
+      <ModifiedDate>2017-05-24T01:00:17.462026+02:00</ModifiedDate>
+      <ModifiedBy>shaff</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>Debug Mode</Item>
+      <ItemType>DebugModeItem</ItemType>
+      <ProjectName />
+      <CreatedDate>2017-05-24T00:37:21.5593909+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+    <DevTrackerDataItem ViewActiveTime="PT12M34.0006029S" EditActiveTime="PT8M15.5807475S">
+      <ModifiedDate>2017-05-24T01:04:45.4555749+02:00</ModifiedDate>
+      <ModifiedBy>shaff</ModifiedBy>
+      <EditedCount>1</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 4\PartyPlanning\PartyPlanning\PartyPlanning.cpp</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\shaff\Desktop\TUM Sync Folder\Alg. for Prog. Contests\Week 4\PartyPlanning\PartyPlanning\PartyPlanning.vcxproj</ProjectName>
+      <CreatedDate>2017-05-24T00:26:32.0628861+02:00</CreatedDate>
+      <ViewedBy>shaff</ViewedBy>
+    </DevTrackerDataItem>
+  </HistoryTimeList>
+</DevTrackerData>
